@@ -13,8 +13,6 @@ import {
   ListParagraph,
   ListTitle,
 } from "./TechnologiesStyles";
-import { SiFlutter } from "react-icons/si";
-import { FiFigma } from "react-icons/fi";
 
 const Technologies = () => (
   <Section id="tech">
@@ -24,7 +22,7 @@ const Technologies = () => (
     <SectionText>
       I have worked with different languages and frameworks. From Front-end to
       Back-end. My utilization of a technology will usually depend on the
-      urgency and specific need.
+      direction of the project and whether the team is onboard with its use.
     </SectionText>
     <List>
       <ListItem>
@@ -62,7 +60,7 @@ const Technologies = () => (
           <ListParagraph>
             Experience with <br />
             AWS Serverless, Zendesk, Git <br />
-            Bugsnag, Yarn, NPM, Bash
+            Bugsnag, Yarn, npm, Bash
           </ListParagraph>
         </ListContainer>
       </ListItem>
