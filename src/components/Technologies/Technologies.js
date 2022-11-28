@@ -22,7 +22,7 @@ const Technologies = () => (
     <SectionText>
       I have worked with different languages and frameworks. From Front-end to
       Back-end. My utilization of a technology will usually depend on the
-      urgency and specific need.
+      direction of the project and whether the team is onboard with its use.
     </SectionText>
     <List>
       <ListItem>
