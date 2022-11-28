@@ -13,8 +13,6 @@ import {
   ListParagraph,
   ListTitle,
 } from "./TechnologiesStyles";
-import { SiFlutter } from "react-icons/si";
-import { FiFigma } from "react-icons/fi";
 
 const Technologies = () => (
   <Section id="tech">
@@ -62,7 +60,7 @@ const Technologies = () => (
           <ListParagraph>
             Experience with <br />
             AWS Serverless, Zendesk, Git <br />
-            Bugsnag, Yarn, NPM, Bash
+            Bugsnag, Yarn, npm, Bash
           </ListParagraph>
         </ListContainer>
       </ListItem>
